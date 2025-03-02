@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "vue-ssr-frame",
   "private": true,
   "type": "module",
   "scripts": {
